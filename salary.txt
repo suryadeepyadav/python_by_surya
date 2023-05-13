@@ -1,0 +1,4 @@
+Employee No, Name, Dept No, Basic, DA, HRA, Conveyance
+101,vasu,1,5000,2000,1000,500
+102,yadav surya,1,6000,2500,1200,600
+103,Rinku Gupta,2,4500,1500,800,400
